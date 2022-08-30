@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423387195862",
+    "project_id": "challenge-2-50cdb",
+    "storage_bucket": "challenge-2-50cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423387195862:android:0626c1ad25e32e365b9c77",
+        "android_client_info": {
+          "package_name": "com.example.challenge_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423387195862-ov034pn3qoch2tp2h47fhr3pr9fbv27j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0MgoScezk6Yv0JRvKLd50126HgwZswNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423387195862-ov034pn3qoch2tp2h47fhr3pr9fbv27j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
